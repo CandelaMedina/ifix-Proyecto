@@ -1,0 +1,171 @@
+h1 {
+  color: #F305A3;
+}
+
+h2 {
+  color: #FFFF00;
+  font-family: "Signika", sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+h3 {
+  color: #F305A3;
+  font-family: "Signika", sans-serif;
+  font-size: 25px;
+}
+
+h4 {
+  color: white;
+}
+
+p {
+  color: white;
+  font-family: "Signika", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+nav a {
+  font-family: "Signika", sans-serif;
+}
+
+.botonnotacompleta {
+  margin: 30px;
+}
+
+.botonvermas {
+  margin: 30px;
+}
+
+footer {
+  background-color: gray;
+}
+
+main {
+  background-color: #09002B;
+}
+
+.maincontactos {
+  background-color: white;
+}
+
+.cuerpo {
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 0%;
+}
+
+.descripcion {
+  color: white;
+  font-family: "Signika", sans-serif;
+  font-size: 20px;
+}
+
+.Sobrenosotros {
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: #09002B;
+  color: white;
+}
+
+.img1secciones {
+  padding: 2px;
+  margin: 2px;
+  margin-bottom: 15px;
+}
+
+.img2secciones {
+  padding: 2px;
+  margin: 2px;
+  margin-bottom: 15px;
+}
+
+.img3secciones {
+  padding: 2px;
+  margin: 2px;
+  margin-bottom: 15px;
+}
+
+.ultimaspublicaciones {
+  margin: 30px;
+  margin-top: 50px;
+  padding-top: 15px;
+}
+
+.titulosdenotas {
+  margin: 25px;
+}
+
+.seccionesnotas {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin: 30px;
+}
+
+.nosotros {
+  margin-top: 50px;
+  color: white;
+  padding-top: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.quienesNE {
+  width: max-content;
+  max-width: 100%;
+  padding: 0%;
+}
+
+.seccionesnotatitulo {
+  padding: 15px;
+}
+
+.cafecito {
+  text-align: center;
+  margin: 15px;
+}
+.cafecito .tutorialcafecito {
+  color: black;
+  text-align: center;
+  margin: 15px;
+}
+
+.cafecitox {
+  background-color: #09002B;
+  padding: 5%;
+  margin: 0%;
+  font-weight: 500;
+  font-size: 50px;
+  font-style: italic;
+}
+
+.cafecitoimg {
+  margin-top: 5%;
+}
+
+.cajasdecontacto {
+  margin-top: 1%;
+  text-align: center;
+  padding: 3%;
+}
+
+.cajasdecontacto p {
+  color: black;
+}
+
+.Contactanos {
+  background-color: #09002B;
+  text-align: center;
+  padding: 5%;
+}
+
+.ubicacion {
+  text-align: center;
+}
+.ubicacion .ubicacion p {
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
